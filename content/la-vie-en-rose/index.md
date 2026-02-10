@@ -1,8 +1,10 @@
 ---
 title: "La Vie En Rose"
 featured: true
+featured_image: "ginghamcheck.jpg"
+description: "tes"
 resources:
-- src: "archive/ginghamcheck.jpg"
+- src: "ginghamcheck.jpg"
   params:
     cover: true
 ---

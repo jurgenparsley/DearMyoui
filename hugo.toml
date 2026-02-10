@@ -5,3 +5,4 @@ theme = 'gallery'
 
 [params]
   description = 'I love you, so much. Dear, Myoui.'
+  mainSections = ["notre-histoire", "pour-toujours", "ames-soeurs"]

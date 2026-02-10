@@ -1,7 +1,7 @@
 ---
 title: "Lieu de Mémoire"
 date: 2025-05-25
-description: "A curated sanctuary of our shared timeline. Every frame is a heartbeat, every pixel is a promise kept."
+description: "I have always feared the way time erodes the sharpness of memory, so I built this space to hold us close forever. Within these walls, the quiet afternoons and the sudden laughter are preserved in their purest form. This is my gratitude turned into art; a curated sanctuary of the light you’ve brought into my world, and a reminder that while these archives hold our past, my heart is already looking forward to every tomorrow by your side."
 ---
 
 # L'Amour de Ma Vie, Myoui.
