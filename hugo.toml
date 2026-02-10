@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'id-id'
+title = 'Our Journey - Gallery'
+theme = 'gallery'
+
+[params]
+  description = 'I love you, so much. Dear, Myoui.'

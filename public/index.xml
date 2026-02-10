@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lieu de Mémoire on Our Journey - Gallery</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Lieu de Mémoire on Our Journey - Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Vie En Rose</title>
+      <link>http://localhost:1313/la-vie-en-rose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/la-vie-en-rose/</guid>
+        <media:content url="http://localhost:1313/la-vie-en-rose/ginghamcheck_hu_b0792bb3b6021b43.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/la-vie-en-rose/ginghamcheck_hu_b0792bb3b6021b43.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
