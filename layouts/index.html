@@ -1,0 +1,15 @@
+{{ define "main" }}
+  {{ partial "title.html" . }}
+
+  {{ range where .Site.Pages "Params.featured" "==" true }}
+    {{ partial "featured.html" . }}
+  {{ end }}
+
+  <section class="galleries">
+    {{ range .Pages }}
+      {{ if and (ne .Params.private true) (ne .Params.featured true) }}
+        {{ partial "album-card.html" . }}
+      {{ end }}
+    {{ end }}
+  </section>
+{{ end }}

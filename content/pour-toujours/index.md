@@ -1,21 +1,36 @@
 ---
 title: "Pour Toujours"
 description: |
-  The strobe lights are supposed to make me feel alive, but tonight, everything feels dull. I'm standing in the center of the podium, draped in a heavy winter collection, letting dozens of photographers capture the best angles of my jawline. I'm doing my job. Being the perfect, cold, and untouchable statue. But my eyes keep drifting to the dark corner behind the rows of massive cables.
+  My monitor displays thousands of lines of code that I'm supposed to finish tonight. But honestly, my concentration broke half an hour ago when I heard the key turn in the front door.
 
-  There sits a man who isn't wearing an expensive suit. Loui, is just in a black shirt with sleeves rolled to his elbows, his eyes fixed on a laptop screen displaying complex encryption graphs. He's here as the head of cybersecurity for the event. Ensuring there are no data leaks or broadcast signal hacks.
+  It's Myoui.
 
-  He hasn't looked up at me once. Everyone in this room is worshipping me, but him... it's as if he's intentionally ignoring my existence.
+  I don't turn around, intentionally staying focused on the screen so he doesn't know I've actually been waiting for him. Not long after, I feel arms wrap around my neck from behind. His floral perfume. A sharp contrast to my room that smells only of coffee, instantly fills my senses.
 
-  Bastard.
+  "Not done yet?" he whispers, resting his chin on my shoulder. His voice sounds tired, but soft.
 
-  I shift my pose, turning my face exactly in his direction, hoping he realizes I'm staring at him through countless camera lenses. I want him to see how beautiful I look tonight. I want him to feel possessive because everyone else wants me.
+  "Almost, Sayang. There's one stubborn bug I've been chasing," I reply, trying to stay cool even though I can barely think straight with him leaning against me like this.
 
-  Suddenly, the tiny earpiece I wear for stage cues crackles. It's not the manager's voice I hear, but a deep, familiar rumble.
+  Myoui doesn't protest. He doesn't ask me to shut down the laptop. Instead, he pulls an empty chair next to mine, sits down, and takes my right hand off the mouse to hold it. He starts telling me little things that happened at the shoot. About the catering being good, or a funny photographer.
 
-  "Chin down, Mowi. You're losing focus," Loui's voice cuts into my frequency, low and sharp. "Stop looking at me and finish your job. If you miss another step, I'll kill every light in this building and drag you home before the show is over."
+  I keep looking at the screen, but my left hand is just typing gibberish now because I'd rather listen to his voice.
 
-  My heart races. He was watching me through the security cameras, not with his own eyes. He sees me through a screen, as part of the system he controls. I tilt my chin down slightly, a faint smile that shouldn't be there touching my lips. The photographer in front of me looks ecstatic, thinking I just gave him a "million-dollar" expression. They don't know that I'm just obeying the command in my ear. As it turns out, being the center of the world's attention is nothing compared to being the only "bug" Calder bothers to fix on his screen.
+  "Are you even listening?" he asks, poking my nose.
+
+  I finally rotate my chair, looking at him fully. He looks incredibly beautiful even with his makeup slightly faded. I brush a stray hair out of his eyes, then pull him closer, near enough that our knees touch.
+
+  "I'm listening. To everything," I say softly. I take off my glasses, a sign that I'm officially giving up on work for the night. "After all, no matter how advanced the system I'm building is, nothing catches my attention quite like you when you're talking like this."
+
+  Myoui smiles, the kind of genuine smile he never gives to the cameras. He leans his head on my shoulder, playing with my fingers.
+
+  "Don't push yourself too hard. You'll get sick," he says caringly.
+
+  I just chuckle softly and kiss the top of his head. "I know, I know. I'm done after this. Should we just order some food?"
+
+  To the world, I might be the programmer who only cares about numbers and logic. But to Myoui, I'm just his Ludwig, the night owl who always has time to listen to his stories, no matter how trivial they are.
+
+  _*Faithfully yours, Calder Ludwig Maximilian.*_
+
 resources:
   - src: "1.jpg"
     params:
