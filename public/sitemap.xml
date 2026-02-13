@@ -7,13 +7,13 @@
   </url><url>
     <loc>http://localhost:1313/notre-histoire/</loc>
   </url><url>
-    <loc>http://localhost:1313/pour-toujours/</loc>
-  </url><url>
     <loc>http://localhost:1313/ames-soeurs/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/la-vie-en-rose/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pour-toujours/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
