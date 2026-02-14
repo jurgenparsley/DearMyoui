@@ -6,3 +6,8 @@ theme = 'gallery'
 [params]
   description = 'I love you, so much. Dear, Myoui.'
   mainSections = ["notre-histoire", "pour-toujours", "ames-soeurs"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

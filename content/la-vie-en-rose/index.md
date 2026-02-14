@@ -35,4 +35,8 @@ resources:
 - src: "ginghamcheck.jpg"
   params:
     cover: true
+
+menu:
+  main:
+    weight: 1
 ---

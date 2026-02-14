@@ -2,18 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notre-histoire/</loc>
+    <loc>http://localhost:1313/notre-histoire/encrypted-correspondance/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ames-soeurs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/notre-histoire/digital-evidence/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notre-histoire/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notre-histoire/clandestine-memories/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pour-toujours/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/la-vie-en-rose/</loc>
-  </url><url>
-    <loc>http://localhost:1313/pour-toujours/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

@@ -1,5 +1,6 @@
 ---
 title: "Pour Toujours"
+weight: 3
 description: |
   My monitor displays thousands of lines of code that I'm supposed to finish tonight. But honestly, my concentration broke half an hour ago when I heard the key turn in the front door.
 
@@ -35,4 +36,8 @@ resources:
   - src: "1.jpg"
     params:
       cover: true
+
+menu:
+  main:
+    weight: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Âmes Sœurs"
+weight: 1
 description: |
   The strobe lights are supposed to make me feel alive, but tonight, everything feels dull. I'm standing in the center of the podium, draped in a heavy winter collection, letting dozens of photographers capture the best angles of my jawline. I'm doing my job. Being the perfect, cold, and untouchable statue. But my eyes keep drifting to the dark corner behind the rows of massive cables.
 
@@ -18,8 +19,13 @@ description: |
   My heart races. He was watching me through the security cameras, not with his own eyes. He sees me through a screen, as part of the system he controls. I tilt my chin down slightly, a faint smile that shouldn't be there touching my lips. The photographer in front of me looks ecstatic, thinking I just gave him a "million-dollar" expression. They don't know that I'm just obeying the command in my ear. As it turns out, being the center of the world's attention is nothing compared to being the only "bug" Loui bothers to fix on his screen.
 
   *_— Devotedly yours, Myoui Ronmura._*
+
 resources:
 - src: "5.jpeg"
   params:
     cover: true
+
+menu:
+  main:
+    weight: 2
 ---
